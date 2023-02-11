@@ -16,6 +16,7 @@
         }
 
         // Teotihuacan cost method
+        // (design in the included JPG file)
         static void costOfTeotihuacan()
         {
             // finding total area
